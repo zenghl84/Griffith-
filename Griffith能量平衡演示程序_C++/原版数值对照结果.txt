@@ -1,0 +1,5 @@
+PASS: Independent comparison with original griffith_core.py
+24 parameter cases (both plane states and zero stress).
+241 CSV curve rows, 8 fields per row.
+2216 value/classification comparisons passed.
+Maximum relative numeric difference: 2.549e-14

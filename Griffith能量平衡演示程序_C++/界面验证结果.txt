@@ -1,0 +1,41 @@
+PASS: C++ native GUI smoke test
+39 checks passed.
+PASS: Native controls created
+PASS: Default subcritical state
+PASS: Page PNG capture
+PASS: Page chart count
+PASS: Page PNG capture
+PASS: Page chart count
+PASS: Page PNG capture
+PASS: Page chart count
+PASS: Teaching example classification
+PASS: Teaching example classification
+PASS: Teaching example classification
+PASS: Teaching example classification
+PASS: Direct entry above slider range accepted
+PASS: Direct entry remains unclamped
+PASS: Zero stress accepted
+PASS: Zero stress has infinite critical half-length
+PASS: Nonphysical input rejected
+PASS: Invalid input preserves accepted state
+PASS: UTF-8 CSV export to Chinese path
+PASS: CSV contains scan data
+PASS: Slider keyboard update
+PASS: Slider changes input
+PASS: Scan starts
+PASS: Scan keeps plot scale fixed
+PASS: Scan stops
+PASS: Front view preset
+PASS: Top view preset
+PASS: Isometric view preset
+PASS: Model rotation
+PASS: Model pan
+PASS: Model wheel zoom
+PASS: Model page final capture
+PASS: Chart bounds computed
+PASS: Chart click selects crack half-length
+PASS: Input panel scroll
+PASS: Formula and results text populated
+PASS: Final default page capture
+PASS: Final default page capture
+PASS: Final default page capture
